@@ -1,3 +1,2 @@
 #! /bin/bash
-sudo su -
-mkdir /test1
+mkdir .test1
